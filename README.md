@@ -7,6 +7,14 @@
   </a>
 </h1>
 
+# MTB donation for bot development
+![Timeline](https://progress-bar.dev/0/?title=10000%20MTB%20to%20Development)
+
+Balance: https://bscscan.com/token/0x2bad52989afc714c653da8e5c47bf794a8f7b11d?a=0x4847C29561B6682154E25c334E12d156e19F613a
+
+MTB: 0x4847C29561B6682154E25c334E12d156e19F613a  
+PIX (Brazil): 08912d17-47a6-411e-b7ec-ef793203f836  
+
 ## ⚠️ Warning
 
 I am not responsible for any penalties incurred by those who use the bot, use it at your own risk.
